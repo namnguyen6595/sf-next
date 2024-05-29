@@ -1,0 +1,12 @@
+{
+  "button": {
+    "create": "Tạo mới",
+    "read_more": "Đọc thêm",
+    "sign_in": "Đăng nhập",
+    "submit": "Tạo mới",
+    "cancel": "Hủy"
+  },
+  "about_us": "Về chúng tôi",
+  "sign_in": "Đăng nhập",
+  "header": "Tiêu đề"
+}

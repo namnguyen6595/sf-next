@@ -1,0 +1,33 @@
+{
+  "author": "Tác giả",
+  "post_by": "Bởi",
+  "view_all": "Xem tất cả",
+  "top": "Bài đăng hàng đầu",
+  "latest": "Mới nhất",
+  "related": "Bài viết liên quan",
+  "register": "Đăng ký",
+  "button": {
+    "register": "Đăng ký",
+    "create_new_post": "Tạo bài đăng mới"
+  },
+  "form": {
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "email": "Email",
+    "title": "Tiêu đề",
+    "content": "Nội dung",
+    "tags": "Thẻ",
+    "search": "Tìm kiếm",
+    "search_placeholder": "Tìm kiếm bài đăng",
+    "search_button": "Tìm kiếm",
+    "type": "Loại",
+    "description": "Mô tả",
+    "please_enter_post_title": "Vui lòng nhập tên bài đăng",
+    "please_enter_description": "Vui lòng nhập nội dung bài đăng",
+    "time": "Thời gian",
+    "fee": "Phí",
+    "please_select_time_range": "Vui lòng chọn khoảng thời gian",
+    "please_enter_fee": "Vui lòng nhập phí"
+  },
+  "total_register": "Tổng số người đăng ký"
+}

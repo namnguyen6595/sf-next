@@ -1,0 +1,12 @@
+{
+  "button": {
+    "create": "Create",
+    "read_more": "Read more",
+    "sign_in": "Sign in",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "about_us": "About us",
+  "sign_in": "Sign in",
+  "header": "Header"
+}

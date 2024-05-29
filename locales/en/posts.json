@@ -1,0 +1,32 @@
+{
+  "author": "Author",
+  "post_by": "Posted by",
+  "view_all": "View all",
+  "top": "Top posts",
+  "latest": "Latest",
+  "register": "Register",
+  "button": {
+    "register": "Register",
+    "create_new_post": "Create new post"
+  },
+  "form": {
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "title": "Title",
+    "content": "Content",
+    "tags": "Tags",
+    "search": "Search",
+    "search_placeholder": "Search for posts",
+    "search_button": "Search",
+    "type": "Type",
+    "description": "Description",
+    "please_enter_post_title": "Please enter the post title",
+    "please_enter_description": "Please enter the post description",
+    "time": "Time",
+    "fee": "Fee",
+    "please_select_time_range": "Please select the time range",
+    "please_enter_fee": "Please enter the fee"
+  },
+  "total_register": "Total registered users"
+}

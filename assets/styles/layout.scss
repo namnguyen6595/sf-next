@@ -1,0 +1,24 @@
+.layout {
+  &-header {
+    background-color: #232536;
+    color: #ffffff;
+    position: sticky;
+    top: 0;
+  }
+
+  &-footer {
+    background-color: #232536;
+    color: #ffffff;
+    position: sticky;
+    bottom: 0;
+    display: 'flex';
+  }
+  &-content {
+    height: calc(100vh - 56px - 60px);  
+    padding: 60px 40px;
+    max-width: 1024px;
+    margin: auto;
+    // height: 100%;
+    overflow-x: hidden;
+  }
+}
